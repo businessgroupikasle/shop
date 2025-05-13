@@ -21,9 +21,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-# shop
-# shop
-# shop
-# shop
-# shop
